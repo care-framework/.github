@@ -25,12 +25,12 @@ Our mission is to create a standard that enables AI agents to be built once and 
 
 | Repository | Description |
 |------------|-------------|
-| [care-spec](https://github.com/care-framework/care-spec) | Core specifications for the CARE standard |
-| [care-runtime](https://github.com/care-framework/care-runtime) | Reference implementation of the CARE runtime |
-| [care-cli](https://github.com/care-framework/care-cli) | Command-line tools for working with CARE bundles |
-| [care-examples](https://github.com/care-framework/care-examples) | Example agent bundles and orchestration patterns |
-| [care-web](https://github.com/care-framework/care-web) | Web interface for managing CARE agents |
-| [care-sdk](https://github.com/care-framework/care-sdk) | SDKs for building CARE-compatible agents |
+| [spec](https://github.com/care-framework/spec) | Core specifications for the CARE standard |
+| [runtime](https://github.com/care-framework/runtime) | Reference implementation of the CARE runtime |
+| [cli](https://github.com/care-framework/cli) | Command-line tools for working with CARE bundles |
+| [examples](https://github.com/care-framework/examples) | Example agent bundles and orchestration patterns |
+| [web](https://github.com/care-framework/web) | Web interface for managing CARE agents |
+| [sdk](https://github.com/care-framework/sdk) | SDKs for building CARE-compatible agents |
 
 ## 🛠️ Use Cases
 
